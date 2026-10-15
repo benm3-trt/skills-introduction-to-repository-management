@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @benm3-trt
+/src/backend/database.py      @benm3-trt
+/src/backend/routers/auth.py  @benm3-trt
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @benm3-trt
